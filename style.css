@@ -1,0 +1,19 @@
+body {
+    background-color: #eeeeee;
+}
+
+.page-all {
+    width: 1920px;
+}
+
+.header {}
+
+.logo {
+    fill: white;
+    color: white;
+    text-decoration: none;
+}
+
+.menu {
+    text-decoration: none;
+}
